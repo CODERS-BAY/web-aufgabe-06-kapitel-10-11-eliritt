@@ -1,4 +1,4 @@
-# Übung 6
+ # Übung 6
 
 Erweiterung des Zoobeispiels
 
